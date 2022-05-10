@@ -3,7 +3,7 @@ Video, but with hyperlink!
 
 ## Idea
 The idea of HyperVideo is adding non-linear playback functionality to normal video, by using hyperlinks inside video.
-## Editor
+## HyperVideo Editor
 ![](editor.gif)
 - Import primary and secondary video
 - create hyperlink on secondary video at specified frame No. 
@@ -12,7 +12,7 @@ The idea of HyperVideo is adding non-linear playback functionality to normal vid
   - draw last bounding box at last appearance
   - bounding boxes in between will be interpolated automatically
 
-## Player Demo
+## HyperVideo Player
 ![](player.gif)
 1. click on the bounding boxes (hyperlinks) when playing video
 2. target video at target frame will start playing
