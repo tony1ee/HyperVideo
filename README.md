@@ -12,7 +12,7 @@ The idea of HyperVideo is adding non-linear playback functionality to normal vid
 ![](editor.gif)
 - Import primary and secondary video
 - create hyperlink on secondary video at specified frame No. 
-- link spatiotemporal area on primary video to hyperlink
+- assign spatiotemporal area on primary video to hyperlink
   - draw first bounding box at first appearance
   - draw last bounding box at last appearance
   - bounding boxes in between will be interpolated automatically
