@@ -23,5 +23,5 @@ The idea of HyperVideo is adding non-linear playback functionality to normal vid
 2. target video at target frame will start playing
 
 # Source Code
-Full source code is available upon request. Due to policy restrictions no public repository is availble.
+Full source code is available upon request. Due to policy restrictions no public repository is available.
 ![](source_code.png)
